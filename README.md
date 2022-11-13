@@ -1,5 +1,5 @@
 - <h2>Hi, I’m Andre Bezerra 👋</h2>
-- I have already developed tasks automation projects for the area of accounting, asset management, accounts payable. All through the conversion of business rules into logic that can be codified. Currently, I work with engineering and data analysis, applied to solutions dedicated to the financial area!
+- I have already developed tasks automation projects for the area of accounting, asset management, accounts payable. All through the conversion of business rules into logic that can be codified. Currently, I work with data engineering and data analysis, applied to solutions dedicated to the financial area!
 ##
 
 <div style="width: 100%;">
@@ -9,22 +9,22 @@
      <img 
        align="center" 
        alt="python" 
-       height="50" 
-       width="70" 
+       height="30" 
+       width="40" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
      />
      <img 
         align="center" 
        alt="Azure Databricks" 
-       height="50" 
-       width="90" 
+       height="30" 
+       width="50" 
        src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" 
      />
      <img 
        align="center" 
        alt="SQL" 
-       height="50" 
-       width="70" 
+       height="30" 
+       width="40" 
        src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" 
      />
   </div>
