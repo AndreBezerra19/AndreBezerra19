@@ -53,7 +53,7 @@
 <div> 
    <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=andrebezerra19&show_icons=true&theme=blueberry"
+    srcset="https://github-readme-stats.vercel.app/api?username=andrebezerra19&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -62,6 +62,27 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=andrebezerra19&show_icons=true" />
 </picture>
+ 
+  <picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=AndreBezerra19&theme=highcontrast&hide_border=false)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=AndreBezerra19&theme=highcontrast&hide_border=false)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBezerra19&theme=highcontrast&hide_border=false)" />
+</picture>
+ 
+ <picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBezerra19&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBezerra19&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBezerra19&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</picture>
+ 
 </div>
 <!---
 AndreBezerra19/AndreBezerra19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
