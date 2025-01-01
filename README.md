@@ -4,48 +4,60 @@
 
 <div style="width: 100%;">
  <div style="width: 50%; height: 100px; float: left; background: none;"> 
-  <div><h4> languages I already use:</h4></div>
+  <div><h4> languages I already use and studying:</h4></div>
   <div style="display: inline_block"><br>
      <img 
        align="center" 
        alt="python" 
-       height="30" 
-       width="40" 
+       height="50" 
+       width="90" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
      />
      <img 
         align="center" 
        alt="Azure Databricks" 
-       height="30" 
-       width="50" 
-       src="https://seekvectorlogo.com/wp-content/uploads/2022/02/databricks-vector-logo-2022.png" 
+       height="50" 
+       width="90" 
+       src="https://cdn.brandfetch.io/idSUrLOWbH/theme/light/logo.svg?c=1bfwsmEH20zzEfSNTed" 
      />
      <img 
        align="center" 
        alt="SQL" 
-       height="30" 
-       width="40" 
-       src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" 
+       height="50" 
+       width="90" 
+       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" 
      />
-  </div>
- <div>
-    <div style="margin-left: 50%; height: 100px; background: none;"> 
-     <div><h4>languages I'm studying:</h4></div>
-     <div styel="display: inline_block"><br>
      <img 
        align="center" 
        alt="python" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+       height="50" 
+       width="90" 
+       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" 
      />
      <img 
        align="center" 
        alt="Azure Databricks" 
-       height="30" 
-       width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+       height="50" 
+       width="90" 
+       src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" 
      />
+        <img 
+       align="center" 
+       alt="PBi" 
+       height="50" 
+       width="90" 
+       src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" 
+     />
+             <img 
+       align="center" 
+       alt="Azure" 
+       height="50" 
+       width="90" 
+       src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" 
+     />
+   
+  </div>
+
  </div>
 
 ##
