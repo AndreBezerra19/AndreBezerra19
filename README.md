@@ -1,5 +1,5 @@
 - <h2>Hi, I’m Andre Bezerra 👋</h2>
-- I have already developed tasks automation projects for the area of accounting, asset management, accounts payable. All through the conversion of business rules into logic that can be codified. Currently, I work with data engineering and data analysis, applied to solutions dedicated to the financial area!
+- With more than 5 years of experience in engineering and data analysis, with extensive experience in creating innovative solutions for data-based financial projects through the use of cloud technologies, using data tools.
 ##
 
 <div style="width: 100%;">
