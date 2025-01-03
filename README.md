@@ -48,14 +48,20 @@
        width="90" 
        src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" 
      />
-             <img 
+     <img 
        align="center" 
        alt="Azure" 
        height="50" 
        width="90" 
        src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" 
      />
-   
+      <img 
+       align="center" 
+       alt="DuckDB" 
+       height="50" 
+       width="90" 
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/DuckDB_logo.svg/1024px-DuckDB_logo.svg.png?20231218224046" 
+     />
   </div>
 
  </div>
