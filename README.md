@@ -1,5 +1,5 @@
-- <h2>Hi, I’m Andre Bezerra 👋</h2>
-- With more than 5 years of experience in engineering and data analysis, with extensive experience in creating innovative solutions for data-based financial projects through the use of cloud technologies, using data tools.
+- <h2>Hi, I’m Andre 👋</h2>
+- Data engineering and analysis, with extensive experience in creating innovative solutions for data-based projects through the use of cloud technologies and data tools.
 ##
 
 <div style="width: 100%;">
